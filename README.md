@@ -88,6 +88,9 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Introdução à Ciência de Dados](https://br.udacity.com/course/intro-to-data-science--ud359/)
   - [Intro to Relational Databases](https://br.udacity.com/course/intro-to-relational-databases--ud197/)
   - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120/)
+  - [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101/)
+  - [Introdução à Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827/)
+  - [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201/)
 
 ### Cousera
   -  [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
