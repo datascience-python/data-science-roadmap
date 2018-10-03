@@ -52,6 +52,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Julia for Data Science](https://books.google.com.br/books?id=Bn9cDgAAQBAJ&printsec=frontcover&dq=Julia+for+data+science&hl=pt-BR&sa=X&ved=0ahUKEwjVybvF_ZPVAhUKOZAKHQd_BIkQ6AEIJjAA#v=onepage&q=Julia%20for%20data%20science&f=false)
   - [Mastering Python Data Analysis](https://books.google.com.br/books?id=_vtvDQAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEINzAC#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
   - [Mastering Python Scientific Computing](https://books.google.com.br/books?id=6NROCwAAQBAJ&printsec=frontcover&dq=Mastering+Python+Scientific+Computing&hl=pt-BR&sa=X&ved=0ahUKEwjb1vLI_pPVAhWFi5AKHVCICccQ6AEIJjAA#v=onepage&q=Mastering%20Python%20Scientific%20Computing&f=false)
+  - [R for Data Science](http://r4ds.had.co.nz/index.html)
 
 ### Recomendados
   - An Introduction to Statistical Learning - [Robert Tibshirani, Trevor Hastie]
@@ -82,6 +83,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [O curso completo de Banco de Dados e SQL, sem mistérios](https://www.udemy.com/bancos-de-dados-relacionais-basico-avancado/)
 
 ### Udacity
+  - [Análise de Dados com R](https://br.udacity.com/course/data-analysis-with-r--ud651)
   - [Fundamentos de Data Science I](https://br.udacity.com/course/fundamentos-data-science-i-python--nd110/)
   - [Introdução à Análise de Dados](https://br.udacity.com/course/intro-to-data-analysis--ud170/)
   - [Fundamentos da Programação com Python](https://br.udacity.com/course/programming-foundations-with-python--ud036/)
@@ -91,6 +93,7 @@ Algumas dicas sobre o que estudar para ser um cientista de dados hoje:
   - [Introdução à Estatística](https://br.udacity.com/course/intro-to-statistics--st101/)
   - [Introdução à Estatística Descritiva](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827/)
   - [Introdução à Estatística Inferencial](https://br.udacity.com/course/intro-to-inferential-statistics--ud201/)
+
 
 ### Cousera
   -  [Curso no Coursera de Machine Learning ministrado pelo Andrew NG](https://pt.coursera.org/learn/machine-learning)
